@@ -21,7 +21,7 @@ del programa y en el punto 4 dice lo siguiente El mecanismo usado para la entrad
  
  1 .¿En qué consiste el principio de responsabilidad única?
 
-  el principio SRP  consiste en que cada clase o componente o metodo debe tener una unica responsabilidad, este principio por lo general va en union con patrones de diseño tales como mvc y su derivado, es bastante util trabajar con este principio y mezclarlo con el principio DRY. algunos framework como angular O spring se basan en el conjunto de esto principio
+  el principio SRP  consiste en que cada clase o componente o metodo debe tener una unica responsabilidad, este principio por lo general va en union con patrones de diseño tales como mvc y su derivado, es bastante util trabajar con este principio y mezclarlo con el principio DRY. algunos framework como angular o spring se basan en el conjunto de estos principios
  
  
  
